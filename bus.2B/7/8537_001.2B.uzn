@@ -1,0 +1,13 @@
+  219   213   220    67 Letterhead
+  189   423   250    43 Dateline
+  199   562   324   103 Inside_Addr
+  199   665   262    39 Attent_line
+  189   789   454    79 Subject
+  192   894   190    34 Salutat
+  192   954  1333   190 Text
+  192  1155   136    49 Closing
+  192  1221   412    49 Company_Sig
+  195  1389   508    76 Signer
+  195  1488    73    43 Sign/Type
+  186  1551   145    52 Enclosure
+  186  1623   151    46 cc
